@@ -19,7 +19,7 @@ A Agência Bold é uma agência de design e desenvolvimento web imaginária, que
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/LucasKaliLinux/Agencia-Bold.git
     ```
 
 2. Abra o arquivo `index.html` em seu navegador para visualizar o site.
